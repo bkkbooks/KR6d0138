@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6d0138/x/v1/juan/0
+seq: 0
+front:
+  text: 止觀輔行傳弘決助覽序丹丘沙門有嚴述止觀者一切諸佛之祕印也昔我祖禪師以無所智而得之於法華妙經後於玉泉九旬慈霔其義深遠其文浩博後之學者非夫玄覽洞視目無全文或難以臻其奧今更以記文并援引經律儒墨雜說又難曉寤幸因講次遂撿討他文輒形注釋且助山中晚進學覽之力非謂增臆說如簸糠眯人目也折為四卷命曰助覽讀者無無小補皇宋元符二年歲次己卯序以冠之
+  hash: sha256:cfe1f23144cdc03c6721fe9c776ab9ef19b185ebd6041d094a051859b772429d
+  markers:
+  - {type: 序, offset: 0, content: 止觀輔行傳弘決助覽序, id: KR6d0138_X_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 止觀輔行助覽
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0920.xml
+    old_id: X55n0920
+hash: sha256:77dcce2aef92fc57dd04df1159b547e2df1813ef087ffaf53e42c9f1c5cf66f6

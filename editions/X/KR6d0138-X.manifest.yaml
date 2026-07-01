@@ -1,0 +1,264 @@
+canonical_identifier: bkk:krp/KR6d0138/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0138/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 止觀輔行助覽
+  identifiers:
+    krp: KR6d0138
+    cbeta: X55n0920
+    cbeta_old_id: X55n0920
+    authorityid: CA0002283
+    json_key: X0920
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0920.xml
+    old_id: X55n0920
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0138_000-X.yaml, hash: 'sha256:248a7f6f847b1935ceca4f40e19380cfef7b99d8a05fe707045d77a88cac17a6'}
+  - {seq: 1, filename: KR6d0138_001-X.yaml, hash: 'sha256:5b72046a45dacb6f00d16f81ba3e83844440151b625248d586bec2cb4a6e6c5b'}
+  - {seq: 2, filename: KR6d0138_002-X.yaml, hash: 'sha256:616eaa058de05eef090f7bbe231999ff23c360a15040a3eda6352e5023050467'}
+  - {seq: 3, filename: KR6d0138_003-X.yaml, hash: 'sha256:fbd7ff25011d8831cfe4dd6001083dc9aca524a9ffe1b47bed7d5682c80a7e06'}
+  - {seq: 4, filename: KR6d0138_004-X.yaml, hash: 'sha256:94b7e5aaec6a3eb0e2529fdce023c392f8ffdbfbcac150bd7dd06b63b124c04b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0138_000-X.markers.yaml, hash: 'sha256:9582e124807d3282c05180b60f81ced0f8433cf598ac80548790aae7215d87c1'}
+  - {seq: 1, role: markers, filename: assets/KR6d0138_001-X.markers.yaml, hash: 'sha256:3526d9d0f0e4fa85ccfdd21180f7e4f0fc8d21e061b5d05e05dada7d2b4fad81'}
+  - {seq: 2, role: markers, filename: assets/KR6d0138_002-X.markers.yaml, hash: 'sha256:3208ec3d46ea4c63e99a7e0d5cacb48828ad68132932d8b5f10d7ff0cdc426d2'}
+  - {seq: 3, role: markers, filename: assets/KR6d0138_003-X.markers.yaml, hash: 'sha256:ddee266fb9bfe5dc8abc2014d621d3ee412fc08abee2eb17f8e47a3d0a88938b'}
+  - {seq: 4, role: markers, filename: assets/KR6d0138_004-X.markers.yaml, hash: 'sha256:a2a3acbbe25264173beb438a9dded90e95ca09114019bc2cc696bfffe3159f5b'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0138_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 止觀輔行傳弘決助覽序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0138_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 13163
+  label: 止觀輔行傳弘決助覽卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0138_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 止觀輔行傳弘決序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0138_X_001-mulu-2
+    span:
+    - body
+    - 878
+    - 878
+  label: 止觀輔行傳弘決卷第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0138_X_001-mulu-3
+    span:
+    - body
+    - 7028
+    - 7028
+  label: 止觀輔行傳弘決卷第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0138_X_001-mulu-4
+    span:
+    - body
+    - 9959
+    - 9959
+  label: 止觀輔行傳弘決卷第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0138_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 15654
+  label: 止觀輔行傳弘決助覽卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0138_X_002-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 止觀輔行傳弘決卷第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0138_X_002-mulu-2
+    span:
+    - body
+    - 2740
+    - 2740
+  label: 止觀輔行傳弘決卷第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0138_X_002-mulu-3
+    span:
+    - body
+    - 5821
+    - 5821
+  label: 止觀輔行傳弘決卷第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0138_X_002-mulu-4
+    span:
+    - body
+    - 12308
+    - 12308
+  label: 止觀輔行傳弘決卷第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0138_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 13085
+  label: 止觀輔行傳弘決助覽卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0138_X_003-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 止觀輔行傳弘決卷第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0138_X_003-mulu-2
+    span:
+    - body
+    - 4279
+    - 4279
+  label: 止觀輔行傳弘決卷第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0138_X_003-mulu-3
+    span:
+    - body
+    - 7634
+    - 7634
+  label: 止觀輔行傳弘決卷第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0138_X_003-mulu-4
+    span:
+    - body
+    - 10147
+    - 10147
+  label: 止觀輔行傳弘決卷第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 16307
+  label: 止觀輔行傳弘決助覽卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 止觀輔行傳弘決卷第十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-2
+    span:
+    - body
+    - 4294
+    - 4294
+  label: 止觀輔行傳弘決卷第十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-3
+    span:
+    - body
+    - 8016
+    - 8016
+  label: 止觀輔行傳弘決卷第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-4
+    span:
+    - body
+    - 12200
+    - 12200
+  label: 止觀輔行傳弘決卷第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-5
+    span:
+    - body
+    - 15714
+    - 15714
+  label: No. 920-A 注三大部後總序
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0138_X_004-mulu-6
+    span:
+    - body
+    - 15906
+    - 15906
+  label: No. 920-B 後序
+  type: mulu
+  level: 1
+hash: sha256:725207efb181045f52a631eebdb28bd71344816ea85e94031bef6bfa96ed5e3b
